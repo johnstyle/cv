@@ -100,7 +100,7 @@ _Rôle: Développeur back_
 
 ## 2008
 
-![CODATU](/assets/img/realisations/netissime-256.jpg#right "CODATU")
+![Netissime](/assets/img/realisations/netissime-256.jpg#right "Netissime")
 ### Netissime
 
 _Rôle: Développeur back_

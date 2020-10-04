@@ -45,6 +45,10 @@ module.exports = {
       {
         text: 'Linkedin',
         link: 'https://www.linkedin.com/in/johnstyle/'
+      },
+      {
+        text: 'Twitter',
+        link: 'https://twitter.com/johnstyle'
       }
     ],
     sidebar: {
@@ -69,5 +73,10 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    '@snowdog/vuepress-plugin-pdf-export', {
+      puppeteerLaunchOptions: {
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+      }
+    },
   ]
 }
