@@ -4,10 +4,12 @@ heroImage: /assets/img/hero.png
 tagline: Lead developer PHP/Symfony à Chambéry
 actionText: Mon CV
 features:
-- title: Compétences
+- title: Expertises
   details: PHP, Symfony, Sylius, GIT, Linux, Docker
-- title: Expériences
+- title: Senior Lead Developer
   details: Développeur back depuis 12 ans
+- title: Localisation
+  details: Chambéry / Savoie / Full remote
 footer: Fait avec VuePress et GitHub Pages
 actionLink: /cv/
 ---

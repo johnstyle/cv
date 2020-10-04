@@ -1,6 +1,6 @@
 # Expériences
 
-## Lead Developer Symfony - NewQuest
+## Lead Developer PHP/Symfony - NewQuest
 _janv. 2014 à aujourd’hui - Chambéry, France_
 
 --------
