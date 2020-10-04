@@ -1,0 +1,19 @@
+{
+  "name": "johnstyle-cv",
+  "version": "0.0.1",
+  "description": "Lead developer Symfony",
+  "main": "index.js",
+  "authors": {
+    "name": "Jonathan SAHM",
+    "email": "contact@johnstyle.fr"
+  },
+  "repository": "https://github.com/johnstyle/cv",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
