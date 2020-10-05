@@ -4,7 +4,7 @@ Passionné d’informatique et plus précisément de programmation, je suis quel
 
 Je programme depuis environs 12 ans sur le langage PHP, **autodidacte** j’ai appris sur le tas à l’époque de PHP 4 puis sur PHP 5 et la programmation orientée objet.
 
-Après avoir voulu réinventer la roue à maintes reprises via la création de frameworks maison... ce qui m’a malgré tout permis de bien appréhender les problématiques des applications de type MVC, j’ai fini par découvrir [Symfony 3](/competences.html) grâce à une formation d’une semaine dispensée par Sensiolab ([SF3C4 ](https://training.sensiolabs.com/fr/courses/SF3C4-developpement-web-avec-symfony3-en-blended-learning)).
+Après avoir voulu réinventer la roue à maintes reprises via la création de frameworks maison... ce qui m’a malgré tout permis de bien appréhender les problématiques des applications de type MVC, j’ai fini par découvrir [Symfony 3](/cv/competences.html) grâce à une formation d’une semaine dispensée par Sensiolab ([SF3C4 ](https://training.sensiolabs.com/fr/courses/SF3C4-developpement-web-avec-symfony3-en-blended-learning)).
 
 Depuis maintenant 5 ans je code principalement sur **Symfony** à travers des [projets de différentes tailles](/cv/realisations.html), du simple site institutionnel à des applications plus complexes.
 
@@ -12,7 +12,7 @@ En tant que **Lead Developer**, ma principale missions est de **concevoir les ap
 
 J’accompagne tout au long des projets les différentes étapes de production, le chargé de projet avec lequel j’établis les spécifications techniques, le client ou les prestataires tiers avec lesquels j’organise des réunions afin de soulever les éventuelles **problématiques techniques**, l’équipe de développement que je manage et pour lesquels j’organise les fonctionnalités à implémenter suivant un planning et pour finir je participe également aux développements sur les fonctionnalités les plus complexes.
 
-J’ai aussi un **rôle de devops**, je déploie les projets grâce à [docker](/competences.html) et une stack que je build et configure suivant les besoins et contraintes techniques.
+J’ai aussi un **rôle de devops**, je déploie les projets grâce à [docker](/cv/competences.html) et une stack que je build et configure suivant les besoins et contraintes techniques.
 
 ### Pour résumer mes principales missions :
 - Veille quotidienne sur les technos web et tout ce qui touche à Symfony
