@@ -79,7 +79,7 @@ module.exports = {
       }
     }],
     ['@vuepress/google-analytics', {
-      'ga': ''
+      'ga': 'UA-179607475-1'
     }]
   ]
 }
