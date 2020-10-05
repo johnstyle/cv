@@ -73,10 +73,13 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    '@snowdog/vuepress-plugin-pdf-export', {
+    ['@snowdog/vuepress-plugin-pdf-export', {
       puppeteerLaunchOptions: {
         args: ['--no-sandbox', '--disable-setuid-sandbox']
       }
-    },
+    }],
+    ['@vuepress/google-analytics', {
+      'ga': ''
+    }]
   ]
 }
