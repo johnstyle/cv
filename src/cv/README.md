@@ -15,9 +15,9 @@ J’accompagne tout au long des projets les différentes étapes de production, 
 J’ai aussi un **rôle de devops**, je déploie les projets grâce à [docker](/competences.html) et une stack que je build et configure suivant les besoins et contraintes techniques.
 
 ### Pour résumer mes principales missions :
-- Veille quotidienne sur les techno web et tout ce qui touche à Symfony
+- Veille quotidienne sur les technos web et tout ce qui touche à Symfony
 - Réunions / formations des équipes de développement sur certaines technos
-- Rédaction de spécifications technique en fonction des besoins client
+- Rédaction de spécifications techniques en fonction des besoins client
 - Conception technique des projets, choix des technos et de la stratégie à suivre
 - Suivi des développements, respect du PSR12, revue de code
 - Mise en place de bundles privés via Satis pour l'équipe de développement

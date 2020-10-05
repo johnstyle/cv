@@ -11,11 +11,11 @@ PHP est mon langage de prédilection, je l'utilise au quotidien **depuis 2008**.
 #### Symfony
 - Symfony 3, 4, 5
 - Développement de bundles / composants via un serveur Satis privé
-- [Api Platform](https://api-platform.com/) avec un surcouche custom Oauth2 / [JWT](https://jwt.io/) pour l'authentification
-- Administration custom sinon Easy admin / Sonata
+- [Api Platform](https://api-platform.com/) avec un surcouche sur mesure Oauth2 / [JWT](https://jwt.io/) pour l'authentification
+- Administration sur mesure sinon Easy admin / Sonata
 - [Sylius](https://sylius.com/)
 
-#### Base de donnée
+#### Base de données
 
 - MariaDB / MySql
 - Redis
@@ -75,7 +75,7 @@ Le métier de développeur évolue constamment, cela m'a amené à **approcher**
 
 ### Développement Python
 
-J'apprécie énormément ce langage, cependant **je ne l'utilise qu'à des fin personnel** je ne prétends donc pas avoir de solides compétences.
+J'apprécie énormément ce langage, cependant **je ne l'utilise qu'à des fins personnelles** je ne prétends donc pas avoir de solides compétences.
 
 - Python 2 et 3
 - Request / Json

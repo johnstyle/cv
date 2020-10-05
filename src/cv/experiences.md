@@ -34,7 +34,7 @@ _janv. 2014 à aujourd’hui - Chambéry, France_
 - Choix des solutions techniques adaptées à chaque projet
 - Accompagnement des clients sur les choix techniques
 - Estimation des temps de développement
-- Rédaction de spécifications technique
+- Rédaction de spécifications techniques
 - Organisation et animation de call / réunions avec les clients sur les points techniques
 
 
@@ -75,7 +75,7 @@ _sept. 2009 – juin 2012 - Lyon, France_
 ### Divers
 - Référencement naturel
 - Référencement Black SEO
-- Monétisation de contenu
+- Monétisation de contenus
 
 ### Gestion
 - Comptabilité
@@ -96,5 +96,5 @@ _août 2008 – sept. 2009 - Villeurbanne, France_
 ### Webservices / API
 - Webservice de paiement Mercanet
 - API de disponibilité de noms de domaine de l'AFNIC
-- API de commande de noms de domaines OVH
+- API de commande de noms de domaine OVH
 - Service de snap de noms de domaine
