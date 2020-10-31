@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/img/hero.png
+heroImage: /assets/img/hero.webp
 tagline: Lead developer PHP/Symfony à Chambéry
 actionText: Mon CV
 features:
